@@ -188,7 +188,7 @@ def _validate_kernel(kernel_size, num_layers):
     
     Intended to be used only in the following ConvLSTM class.
     
-    Arges:
+    Args:
         kernel_size(tuple or int): the kernel_size to be transformed.
         num_layers(int): num of layers, decides length of the output list.
         
